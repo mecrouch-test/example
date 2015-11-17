@@ -1,0 +1,14 @@
+- label: Tour
+  path: tour/
+
+- label: Docs
+  path: docs/user-guide/
+
+- label: Community
+  path: community/developer-docs/
+
+- label: Demos
+  path: demos/
+
+- label: Contact
+  path: contact/

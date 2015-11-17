@@ -1,0 +1,6 @@
+{% for item in site.data.menuItems %}
+	<a href="{{site.baseurl}}/{{item.path}}">{{ item.label }}</a>
+	{% if forloop.last == false %}
+		&nbsp;|&nbsp;
+	{% endif %}
+{% endfor %}

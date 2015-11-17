@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% include head.html %}
+	</head>
+	<body>
+		<div id="header"></div>
+		<div id="content-strip">
+			<header>
+				<nav id="header-menu">
+					{% include menu.html %}
+				</nav>
+			</header>
+			<div id="all">
+				{{ content }}
+			</div>
+			</div>
+		</div>
+	</body>
+</html>
