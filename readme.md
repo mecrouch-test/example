@@ -5,8 +5,6 @@ layout: section
 published: false
 ---
 
-
-
 <div class="intro">
 	<img class="intro-img" src="img/intro-img.png">
 </div>
@@ -31,3 +29,5 @@ Go to [a website](http://goooooooogel.com).
 ```
 
 Adding a line down here.
+
+Test.
