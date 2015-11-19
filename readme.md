@@ -2,7 +2,9 @@
 title: Hello World
 permalink: /
 layout: section
+published: true
 ---
+
 
 <div class="intro">
 	<img class="intro-img" src="img/intro-img.png">
@@ -26,3 +28,5 @@ Go to [a website](http://goooooooogel.com).
 	(display "Hello, world!")
 	(newline))
 ```
+
+Adding a line down here.
