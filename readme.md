@@ -1,23 +1,13 @@
 ---
-title: Hello, World!
+title: 'Hello, World!'
 permalink: /
 layout: section
 ---
-
 <div class="intro">&nbsp;</div>
 
-It was the best of times, it was the *blurst* of times?
+It was the best of times, it was the _blurst_ of times?
 
-1. Do **this**.
-2. Then *that*.
-3. Recite the following words:
-
-   * Purple
-   * Monkey
-   * Dishwasher
-
-
-Go to [a website](http://goooooooogel.com).
+Go to [a website](http://goooooooogel.com). Or something.
 
 ## Code Example
 
